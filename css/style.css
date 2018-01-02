@@ -1,17 +1,87 @@
 html,body {
   font-family: 'Raleway', sans-serif;
-  padding: 1em 2em;
+  padding: 0px;
   font-size: 18px;
   background: #222;
   color: #aaa
 }
 
-h1,h2 {
-  font-weight: 200;
-  margin: 0.4em 0;
+
+h1 {
+  font-size: 3.5em;
 }
-h1 { font-size: 3.5em; }
+
 h2 {
-  color: #888;
-  font-size: 2em;
+  font-size: 25px;
+}
+
+
+header {
+  margin-bottom: 0;
+}
+
+div .col-sm {
+
+}
+
+div.ruta {
+    background-color: #8080801c;
+    border: 2px solid #ffffff42;
+    padding: 40px;
+    margin: 0px;
+    text-align:center;
+}
+
+div.ruta a {
+  color: white;
+}
+
+div.ruta a:hover {
+  text-decoration: none;
+}
+
+div.ruta:hover {
+    background-color: #80808000;
+    border: 2px solid #ffffffc2;
+}
+
+div.filmigen {
+  position: fixed;
+  width: 100%;
+  bottom: 30px;
+  text-align: center
+}
+
+div.filmigen a {
+  color: grey;
+  text-decoration: none;
+}
+
+div.hoppafilm {
+  text-align: center
+}
+
+div.hoppafilm a {
+  color: grey;
+  text-decoration: none;
+}
+
+div.copyright {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+}
+
+div.copyright a {
+  color: grey;
+}
+
+.video {
+    background-color: black;
+    z-index: 9999;
+    position: absolute;
+    max-height: 100%;
+    min-width: 100%;
+    max-width: 100%;
 }
