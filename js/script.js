@@ -14,5 +14,5 @@ var video = $("video")
 
 // När videon är slut, skicka vidare användaren
 video.on('ended', function() {
-  window.location.href = window.location.href + "?sida=startite"
+  window.location.href = window.location.href + "?sida=startsite"
 })
