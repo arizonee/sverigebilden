@@ -38,9 +38,9 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Statistik</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="kottkonsumtion.html">Köttkonsumtion</a>
-              <a class="dropdown-item" href="narkotika.html">Narkotika</a>
-              <a class="dropdown-item" href="utslapp.html">Utsläpp</a>
+              <a class="dropdown-item" href="?sida=kottkonsumtion">Köttkonsumtion</a>
+              <a class="dropdown-item" href="?sida=narkotika">Narkotika</a>
+              <a class="dropdown-item" href="?sida=utslapp">Utsläpp</a>
             </div>
           </li>
         </ul>
