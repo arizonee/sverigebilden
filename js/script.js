@@ -4,7 +4,7 @@ var rutor = $("div.ruta")
 
 
 // För varje ruta, räkna om dess höjd
-rutor.each(function (ruta) {
+rutor.each(function (ruta)
   $(this).css("height", $(this).width())
 });
 */

@@ -11,6 +11,7 @@
         <li><u>Olle Bengtsson</u><br>olle.bengtsson@gmail.com</li>
         <li><u>Oscar Gyllander</u><br>oscar.gyllander@gmail.com</li>
       </ul>
+      </div>
     </div>
   </div>
 </div>
