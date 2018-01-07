@@ -1,7 +1,9 @@
-<div class="ingress">
-<p>Här ska en ingress finnas med text om statistiken som visas nedan</p>
-</div>
 <div class="container">
+  <div class="row row-ingress">
+    <div class="col-lg-12 col-12">
+      <p>Här ska en ingress finnas</p>
+    </div>
+  </div>
   <div class="row">
     <div class="col-lg-4 col-12">
       <a href="?sida=kottkonsumtion">
@@ -19,14 +21,17 @@
   </div>
     <div class="col-lg-4 col-12">
       <a href="?sida=utslapp">
-      <div class="ruta ruta-utslapp bild">
-      <h2>UTSLÄPP</h2>
+        <div class="ruta ruta-utslapp bild">
+          <h2>UTSLÄPP</h2>
+        </div>
+      </a>
     </div>
-    </a>
   </div>
+  <div class="row row-bottom">
+    <div class="col-lg-12 col-12">
+    </div>
   </div>
 </div>
-
 
 <div class="filmigen">
 <p><a href="index.php">Se filmen igen</a></p>

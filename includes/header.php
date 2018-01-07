@@ -21,7 +21,7 @@
 
 <header>
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <nav id="navbar" class="navbar navbar-expand-md navbar-dark fixed-top">
       <a class="navbar-brand" href="?sida=startsite">Sverigebilden</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -29,12 +29,6 @@
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="?sida=omoss">Om oss</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?sida=kontakt">Kontakt</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Statistik</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
@@ -42,6 +36,9 @@
               <a class="dropdown-item" href="?sida=narkotika">Narkotika</a>
               <a class="dropdown-item" href="?sida=utslapp">Utsläpp</a>
             </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?sida=kontakt">Vilka är vi?</a>
           </li>
         </ul>
 
