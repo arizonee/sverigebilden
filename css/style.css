@@ -1,7 +1,7 @@
 html,body {
   font-family: 'Raleway', sans-serif;
   padding: 0px;
-  font-size: 18px;
+  font-size: 17px;
   background: #222;
   color: #aaa
 }
@@ -20,6 +20,11 @@ header {
   margin-bottom: 150px;
 }
 
+nav .navbar {
+  border-bottom: 10px;
+  border-color: white;
+}
+
 div .col-sm {
 
 }
@@ -32,7 +37,7 @@ div .col-lg-4 a {
 div.ruta {
     background-color: #8080801c;
     border: 2px solid #ffffff;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
     margin: 0px;
     text-align:center;
@@ -55,17 +60,20 @@ div.bild {
 div.ruta-kottkonsumtion {
   background-image: url("../media/ko.jpg");
   background-position: left;
+  border-color: #AD1A28;
 
 }
 
 div.ruta-narkotika {
   background-image: url("../media/drugs.jpg");
+  border-color: #D37A39;
 
 }
 
 div.ruta-utslapp {
   background-image: url("../media/fabrik1.jpg");
   background-position: top center;
+  border-color: #B84D93;
 
 }
 
@@ -139,4 +147,16 @@ div .kontakt {
 div .kontakt ul {
   padding: 0;
   margin-top: 50px;
+}
+
+div .ingress p {
+  text-align: center;
+  color: blue;
+}
+
+div .burg {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
 }

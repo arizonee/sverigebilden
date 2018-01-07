@@ -1,3 +1,6 @@
+<div class="ingress">
+<p>Här ska en ingress finnas med text om statistiken som visas nedan</p>
+</div>
 <div class="container">
   <div class="row">
     <div class="col-lg-4 col-12">
