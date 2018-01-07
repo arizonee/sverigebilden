@@ -31,8 +31,16 @@ var myChart = new Chart(ctx, {
     options: {
         scales: {
             yAxes: [{
+                gridLines: {
+                    color: 'rgba(255, 255, 255, 0.2)'
+                },
                 ticks: {
                     beginAtZero:true
+                }
+            }],
+            xAxes: [{
+                gridLines: {
+                    color: 'rgba(255, 255, 255, 0.2)'
                 }
             }]
         }
