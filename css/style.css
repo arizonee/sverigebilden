@@ -174,3 +174,7 @@ div .kontakt li {
 div .kontakt h2 {
   text-align: center;
 }
+
+p.artikeltext {
+    text-align: left;
+}
