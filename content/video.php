@@ -1,4 +1,4 @@
-<video class="video" controls autoplay>
+<video class="video" autoplay>
     <source src="media/SverigebildenKlar.mp4" type="video/mp4">
 </video>
 

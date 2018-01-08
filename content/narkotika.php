@@ -25,6 +25,7 @@
             Sverigebilden har valt att lyfta fram statistik från EMCDDA. Enligt både Socialstyrelsen och EU:s narkotikabyrå kan Sveriges ökade dödstal till viss del bero på utvecklade metoder för att spåra narkotika vid oklara dödsfall, samt ändringar i hur statistik samlas in och rapporteras. Trots det räknas vi ha ett av de högsta dödstalen i EU. Hos samtliga våra nordiska grannländer är dödsfallen omkring en tredjedel av Sveriges.
 
         </p>
+      <?php include("includes/share.php"); ?>
     </div>
   </div>
 </div>
