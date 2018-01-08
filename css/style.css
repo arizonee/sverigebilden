@@ -113,7 +113,7 @@ div.hoppafilm a {
 
 div.copyright {
   text-align: center;
-  position: fixed;
+  position: relative;
   width: 100%;
   bottom: 0px;
   color: grey;
@@ -173,4 +173,9 @@ div .kontakt li {
 
 div .kontakt h2 {
   text-align: center;
+}
+
+div.share-buttons {
+  margin: 0;
+
 }

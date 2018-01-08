@@ -16,6 +16,7 @@
   </div>
   <div class="row row-bottom">
     <div class="col-lg-12 col-12">
+      <?php include("includes/share.php"); ?>
     </div>
   </div>
 </div>
