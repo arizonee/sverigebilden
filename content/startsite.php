@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row row-ingress">
     <div class="col-lg-12 col-12">
-      <p>Här ska en ingress finnas</p>
+      <p>Välkommen till Sverigebilden.<br> Vi ger dig gedigen och välarbetat statistik med syfte att visa och informera om Sveriges utveckling i en rad olika ämnen. <br>Alla siffror kommer från trovärdiga och gedigna källor.</p>
     </div>
   </div>
   <div class="row">
