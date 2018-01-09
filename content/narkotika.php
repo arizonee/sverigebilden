@@ -8,7 +8,10 @@
     <div class="col-lg-12 col-5">
       <canvas id="narkotika-statistik1" width="250" height="115"></canvas>
     </div>
-    <div class="col-sm-2">
+    <div class="col-sm-12">
+        <p class="statfork">
+        Grafen visar antalet människor som avlidit på grund av överdosering av narkotika i Sverige. Statistiken är framtagen av EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). 
+        </p>
     </div>
     <div class="col-sm-5">
     </div>

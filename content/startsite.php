@@ -9,6 +9,7 @@
       <a href="?sida=kottkonsumtion">
       <div class="ruta ruta-kottkonsumtion bild">
       <h2>KÖTTKONSUMTION</h2>
+          <p>Allt fler svenskar blir vegetarianer. Men minskar vår köttkonsumtion?</p>
     </div>
     </a>
   </div>
