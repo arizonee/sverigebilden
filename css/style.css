@@ -197,6 +197,7 @@ div.share-buttons {
 
 }
 
+<<<<<<< HEAD
 div.hoverstart {
   display: none;
   text-align: center;
@@ -217,3 +218,10 @@ div.ruta:hover > div.hoverstart {
 div.ruta:hover > h2 {
   display: none;
 }
+=======
+p.statfork {
+    font-size:70%;
+    text-align:left;
+    font-style:italic;
+}
+>>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da

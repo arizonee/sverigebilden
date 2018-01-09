@@ -14,32 +14,42 @@ if (document.getElementById("kott-statistik1")) {
       data: {
           labels: ["1970", "1990", "2016"],
           datasets: [{
+<<<<<<< HEAD
               label: 'milj kg övriga köttprodukter/hela landet',
               data: [51.2, 81.6, 128.5],
+=======
+              label: 'miljoner kg nötkött inkl kalv/hela landet',
+              data: [39.2, 57.6, 126.0],
+>>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
-                  'rgba(148, 0, 211, 0.2)',
-                  'rgba(148, 0, 211, 0.2)',
-                  'rgba(148, 0, 211, 0.2)'
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(255, 99, 132, 0.2)'
               ],
               borderColor: [
-                  'rgba(148, 0, 211, 1)',
-                  'rgba(148, 0, 211, 1)',
-                  'rgba(148, 0, 211, 1)'
+                  'rgba(255,99,132,1)',
+                  'rgba(255,99,132,1)',
+                  'rgba(255,99,132,1)'
               ],
               borderWidth: 1
           },
           {
+<<<<<<< HEAD
               label: 'milj kg charkuteri och konserver/hela landet',
               data: [211.5, 185.0, 194.2],
+=======
+              label: 'miljoner kg fläskkött/hela landet',
+              data: [79.5, 88.0, 149.4],
+>>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
-                  'rgba(0, 255, 0, 0.2)',
-                  'rgba(0, 255, 0, 0.2)',
-                  'rgba(0, 255, 0, 0.2)'
+                  'rgba(54, 162, 235, 0.2)',
+                  'rgba(54, 162, 235, 0.2)',
+                  'rgba(54, 162, 235, 0.2)'
               ],
               borderColor: [
-                  'rgba(0, 255, 0, 1)',
-                  'rgba(0, 255, 0, 1)',
-                  'rgba(0, 255, 0, 1)'
+                  'rgba(54, 162, 235, 1)',
+                  'rgba(54, 162, 235, 1)',
+                  'rgba(54, 162, 235, 1)'
               ],
               borderWidth: 1
           },
@@ -59,32 +69,42 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
+<<<<<<< HEAD
               label: 'milj kg fläskkött/hela landet',
               data: [79.5, 88.0, 149.4],
+=======
+              label: 'miljoner kg charkuteri och konserver/hela landet',
+              data: [211.5, 185.0, 194.2],
+>>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(54, 162, 235, 0.2)'
+                  'rgba(0, 255, 0, 0.2)',
+                  'rgba(0, 255, 0, 0.2)',
+                  'rgba(0, 255, 0, 0.2)'
               ],
               borderColor: [
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(54, 162, 235, 1)'
+                  'rgba(0, 255, 0, 1)',
+                  'rgba(0, 255, 0, 1)',
+                  'rgba(0, 255, 0, 1)'
               ],
               borderWidth: 1
           },
           {
+<<<<<<< HEAD
               label: 'milj kg nötkött inkl kalv/hela landet',
               data: [39.2, 57.6, 126.0],
+=======
+              label: 'miljoner kg övriga köttprodukter/hela landet',
+              data: [51.2, 81.6, 128.5],
+>>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(255, 99, 132, 0.2)'
+                  'rgba(148, 0, 211, 0.2)',
+                  'rgba(148, 0, 211, 0.2)',
+                  'rgba(148, 0, 211, 0.2)'
               ],
               borderColor: [
-                  'rgba(255,99,132,1)',
-                  'rgba(255,99,132,1)',
-                  'rgba(255,99,132,1)'
+                  'rgba(148, 0, 211, 1)',
+                  'rgba(148, 0, 211, 1)',
+                  'rgba(148, 0, 211, 1)'
               ],
               borderWidth: 1
           }]
@@ -119,47 +139,17 @@ if (document.getElementById("kott-statistik2")) {
       data: {
           labels: ["1970", "1990", "2016"],
           datasets: [{
-              label: 'kg övriga köttprodukter/person',
-              data: [6.3, 9.6, 12.9],
+              label: 'kg nötkött inkl kalv/person',
+              data: [4.9, 6.7, 12.7],
               backgroundColor: [
-                  'rgba(148, 0, 211, 0.2)',
-                  'rgba(148, 0, 211, 0.2)',
-                  'rgba(148, 0, 211, 0.2)'
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(255, 99, 132, 0.2)'
               ],
               borderColor: [
-                  'rgba(148, 0, 211, 1)',
-                  'rgba(148, 0, 211, 1)',
-                  'rgba(148, 0, 211, 1)'
-              ],
-              borderWidth: 1
-          },
-          {
-              label: 'kg charkuteri och konserver/person',
-              data: [26.3, 21.6, 19.6],
-              backgroundColor: [
-                  'rgba(0, 255, 0, 0.2)',
-                  'rgba(0, 255, 0, 0.2)',
-                  'rgba(0, 255, 0, 0.2)'
-              ],
-              borderColor: [
-                  'rgba(0, 255, 0, 1)',
-                  'rgba(0, 255, 0, 1)',
-                  'rgba(0, 255, 0, 1)'
-              ],
-              borderWidth: 1
-          },
-          {
-              label: 'kg fjäderfä/person',
-              data: [3.3, 5.4, 21.9],
-              backgroundColor: [
-                  'rgba(240, 170 ,20 , 0.2)',
-                  'rgba(240, 170 ,20 , 0.2)',
-                  'rgba(240, 170 ,20 , 0.2)'
-              ],
-              borderColor: [
-                  'rgba(240, 170, 20, 1)',
-                  'rgba(240, 170, 20, 1)',
-                  'rgba(240, 170, 20, 1)'
+                  'rgba(255,99,132,1)',
+                  'rgba(255,99,132,1)',
+                  'rgba(255,99,132,1)'
               ],
               borderWidth: 1
           },
@@ -179,17 +169,47 @@ if (document.getElementById("kott-statistik2")) {
               borderWidth: 1
           },
           {
-              label: 'kg nötkött inkl kalv/person',
-              data: [4.9, 6.7, 12.7],
+              label: 'kg fjäderfä/person',
+              data: [3.3, 5.4, 21.9],
               backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(255, 99, 132, 0.2)'
+                  'rgba(240, 170 ,20 , 0.2)',
+                  'rgba(240, 170 ,20 , 0.2)',
+                  'rgba(240, 170 ,20 , 0.2)'
               ],
               borderColor: [
-                  'rgba(255,99,132,1)',
-                  'rgba(255,99,132,1)',
-                  'rgba(255,99,132,1)'
+                  'rgba(240, 170, 20, 1)',
+                  'rgba(240, 170, 20, 1)',
+                  'rgba(240, 170, 20, 1)'
+              ],
+              borderWidth: 1
+          },
+          {
+              label: 'kg charkuteri och konserver/person',
+              data: [26.3, 21.6, 19.6],
+              backgroundColor: [
+                  'rgba(0, 255, 0, 0.2)',
+                  'rgba(0, 255, 0, 0.2)',
+                  'rgba(0, 255, 0, 0.2)'
+              ],
+              borderColor: [
+                  'rgba(0, 255, 0, 1)',
+                  'rgba(0, 255, 0, 1)',
+                  'rgba(0, 255, 0, 1)'
+              ],
+              borderWidth: 1
+          },
+          {
+              label: 'kg övriga köttprodukter/person',
+              data: [6.3, 9.6, 12.9],
+              backgroundColor: [
+                  'rgba(148, 0, 211, 0.2)',
+                  'rgba(148, 0, 211, 0.2)',
+                  'rgba(148, 0, 211, 0.2)'
+              ],
+              borderColor: [
+                  'rgba(148, 0, 211, 1)',
+                  'rgba(148, 0, 211, 1)',
+                  'rgba(148, 0, 211, 1)'
               ],
               borderWidth: 1
           }]

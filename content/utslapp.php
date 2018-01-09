@@ -8,7 +8,10 @@
     <div class="col-lg-12 col-12">
       <canvas id="utslapp-statistik1" width="250" height="125"></canvas>
     </div>
-    <div class="col-sm-2">
+    <div class="col-sm-12">
+        <p class="statfork">
+        I grafen används utsläppsnivåerna år 1900 som ett index, alltså en nollpunkt för mätningen. Anledningen till att indexet ligger på 100 och inte på 0, är för att utsläppsnivåerna senare sjunker under 1900 års index. Hade indexet legat på 0 hade till exempel 1945 års utsläppsnivåer legat på  -49, vilket inte hade stämt.
+        </p>
     </div>
     <div class="col-lg-12 col-12">
     </div>
