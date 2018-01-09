@@ -14,9 +14,9 @@
       <h2>Kontakta oss</a></h2>
       <ul>
         <li><u>Aris Velizelos</u><br>aris.velizelos@gmail.com</li>
-        <li><u>Ricardo Burrows</u><br>ricardo.burrows@gmail.com</li>
-        <li><u>Olle Bengtsson</u><br>olle.bengtsson@gmail.com</li>
-        <li><u>Oscar Gyllander</u><br>oscar.gyllander@gmail.com</li>
+        <li><u>Ricardo Burrows</u><br>radikaltbanal@gmail.com</li>
+        <li><u>Olle Bengtsson</u><br>olle-bengtsson@live.se</li>
+        <li><u>Oscar Gyllander</u><br>oscar.gyllander@outlook.com</li>
       </ul>
     </div>
   </div>

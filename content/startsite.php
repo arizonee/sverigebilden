@@ -7,22 +7,31 @@
   <div class="row">
     <div class="col-lg-4 col-12">
       <a href="?sida=kottkonsumtion">
-      <div class="ruta ruta-kottkonsumtion bild">
-      <h2>KÖTTKONSUMTION</h2>
+        <div class="ruta ruta-kottkonsumtion bild">
+          <h2>KÖTTKONSUMTION</h2>
+          <div class="hoverstart">
+            Allt fler svenskar blir vegetarianer. Men minskar vår köttkonsumtion?
+          </div>
+        </div>
+      </a>
     </div>
-    </a>
-  </div>
     <div class="col-lg-4 col-12">
       <a href="?sida=narkotika">
-      <div class="ruta ruta-narkotika bild">
-      <h2>NARKOTIKA</h2>
+        <div class="ruta ruta-narkotika bild">
+          <h2>NARKOTIKA</h2>
+          <div class="hoverstart">
+            Drömmen om ett narkotikafritt samhälle. Räddar det fler liv än det kostar?
+          </div>
+        </div>
+      </a>
     </div>
-    </a>
-  </div>
     <div class="col-lg-4 col-12">
       <a href="?sida=utslapp">
         <div class="ruta ruta-utslapp bild">
           <h2>UTSLÄPP</h2>
+          <div class="hoverstart">
+            Världens koldioxidutsläpp slår nya rekord. Hänger Sverige på?
+          </div>
         </div>
       </a>
     </div>

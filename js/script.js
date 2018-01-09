@@ -14,7 +14,7 @@ if (document.getElementById("kott-statistik1")) {
       data: {
           labels: ["1970", "1990", "2016"],
           datasets: [{
-              label: 'miljoner kg övriga köttprodukter/hela landet',
+              label: 'milj kg övriga köttprodukter/hela landet',
               data: [51.2, 81.6, 128.5],
               backgroundColor: [
                   'rgba(148, 0, 211, 0.2)',
@@ -29,7 +29,7 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-              label: 'miljoner kg charkuteri och konserver/hela landet',
+              label: 'milj kg charkuteri och konserver/hela landet',
               data: [211.5, 185.0, 194.2],
               backgroundColor: [
                   'rgba(0, 255, 0, 0.2)',
@@ -44,7 +44,7 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-              label: 'miljoner kg fjäderfä/hela landet',
+              label: 'milj kg fjäderfä/hela landet',
               data: [26.3, 46.5, 217.7],
               backgroundColor: [
                   'rgba(240, 170 ,20 , 0.2)',
@@ -59,7 +59,7 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-              label: 'miljoner kg fläskkött/hela landet',
+              label: 'milj kg fläskkött/hela landet',
               data: [79.5, 88.0, 149.4],
               backgroundColor: [
                   'rgba(54, 162, 235, 0.2)',
@@ -74,7 +74,7 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-              label: 'miljoner kg nötkött inkl kalv/hela landet',
+              label: 'milj kg nötkött inkl kalv/hela landet',
               data: [39.2, 57.6, 126.0],
               backgroundColor: [
                   'rgba(255, 99, 132, 0.2)',
@@ -294,7 +294,7 @@ if (document.getElementById("utslapp-statistik1")) {
               borderWidth: 1
           }]
       },
-      
+
       options: {
           scales: {
               yAxes: [{
