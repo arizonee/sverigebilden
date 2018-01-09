@@ -7,7 +7,6 @@
   <div class="row">
     <div class="col-lg-4 col-12">
       <a href="?sida=kottkonsumtion">
-<<<<<<< HEAD
         <div class="ruta ruta-kottkonsumtion bild">
           <h2>KÖTTKONSUMTION</h2>
           <div class="hoverstart">
@@ -15,11 +14,6 @@
           </div>
         </div>
       </a>
-=======
-      <div class="ruta ruta-kottkonsumtion bild">
-      <h2>KÖTTKONSUMTION</h2>
-          <p>Allt fler svenskar blir vegetarianer. Men minskar vår köttkonsumtion?</p>
->>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
     </div>
     <div class="col-lg-4 col-12">
       <a href="?sida=narkotika">

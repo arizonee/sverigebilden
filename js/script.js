@@ -14,13 +14,8 @@ if (document.getElementById("kott-statistik1")) {
       data: {
           labels: ["1970", "1990", "2016"],
           datasets: [{
-<<<<<<< HEAD
-              label: 'milj kg övriga köttprodukter/hela landet',
-              data: [51.2, 81.6, 128.5],
-=======
               label: 'miljoner kg nötkött inkl kalv/hela landet',
               data: [39.2, 57.6, 126.0],
->>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
                   'rgba(255, 99, 132, 0.2)',
                   'rgba(255, 99, 132, 0.2)',
@@ -34,13 +29,8 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-<<<<<<< HEAD
-              label: 'milj kg charkuteri och konserver/hela landet',
-              data: [211.5, 185.0, 194.2],
-=======
               label: 'miljoner kg fläskkött/hela landet',
               data: [79.5, 88.0, 149.4],
->>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
                   'rgba(54, 162, 235, 0.2)',
                   'rgba(54, 162, 235, 0.2)',
@@ -69,13 +59,8 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-<<<<<<< HEAD
-              label: 'milj kg fläskkött/hela landet',
-              data: [79.5, 88.0, 149.4],
-=======
               label: 'miljoner kg charkuteri och konserver/hela landet',
               data: [211.5, 185.0, 194.2],
->>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
                   'rgba(0, 255, 0, 0.2)',
                   'rgba(0, 255, 0, 0.2)',
@@ -89,13 +74,8 @@ if (document.getElementById("kott-statistik1")) {
               borderWidth: 1
           },
           {
-<<<<<<< HEAD
-              label: 'milj kg nötkött inkl kalv/hela landet',
-              data: [39.2, 57.6, 126.0],
-=======
               label: 'miljoner kg övriga köttprodukter/hela landet',
               data: [51.2, 81.6, 128.5],
->>>>>>> a4a20fa38d19fb64390c7bd715f02906877ea2da
               backgroundColor: [
                   'rgba(148, 0, 211, 0.2)',
                   'rgba(148, 0, 211, 0.2)',
