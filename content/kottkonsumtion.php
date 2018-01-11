@@ -15,8 +15,7 @@
     </div>
         <div class="col-sm-12">
         <p class="statfork">
-        Att mäta köttkonsumtion är svårt och Jordbruksverket som tagit fram datan, är tydliga med att vissa svårigheter finns när man jämför olika år. Olika mätmetoder har funnits, men datan är sammanställd på ett så korrekt sätt som möjligt.<br>
-
+        Att mäta köttkonsumtion är svårt och Jordbruksverket som tagit fram datan, är tydliga med att vissa svårigheter finns när man jämför olika år. Olika mätmetoder har funnits, men datan är sammanställd på ett så korrekt sätt som möjligt.
         Med övriga köttprodukter menas fårkött, renkött, viltdjur samt allt hemslaktat kött.
         </p>
         </div>

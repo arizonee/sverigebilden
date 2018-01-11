@@ -1,7 +1,9 @@
 <div class="container">
   <div class="row row-ingress">
     <div class="col-lg-12 col-12">
-      <p>Välkommen till Sverigebilden.<br> Vi ger dig gedigen och välarbetat statistik med syfte att visa och informera om Sveriges utveckling i en rad olika ämnen. <br>Alla siffror kommer från trovärdiga och gedigna källor.</p>
+      <p>Välkommen till Sverigebilden<br><br>Sverigebilden är en oberoende tjänst med målet att sprida fakta och statistik om Sverige på ett användarvänligt och inspirerande sätt.
+        Vi vill vara en motvikt mot rykten och falska påståenden, och erbjuda en tjänst där du lätt kan hitta rätt siffror i olika frågor.
+        Vi hämtar siffror från olika granskade källor, oftast statliga såsom SCB eller Naturvårdsverket. Du slipper göra grävandet bland siffror och rapporter, och kan istället vinna diskussionen med rätt statistik och källor.</p>
     </div>
   </div>
   <div class="row">
